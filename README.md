@@ -15,7 +15,7 @@ We were part of the Adopt-a-JSR program for JSR-344: https://java.net/projects/j
 Hall of Fame: Neal Ford, Ed Burns, Dr. Neil Gafter, Dalibor Topic, Stefan Tilkov, Nils Wloka, Stefan Glase, Stefan Scheidt, Marc Guillemot, Mike Wiesner, Ingo Maier, Patrick Chanezon, Andreas Ebbert-Karroum, Matthias Wessendorf, Arno Puder, Andrea Provaglio, Vaclav Pech, Jonas Bonér, Roman Strobl, Carol McDonald, Joey Shen, Simon Ritter, Mike Keith, Owen Taylor, Maxim Shafirov, Mike Aizatsky, Wayne Beaton, Frank Nimphuis, Eberhard Wolff, Adam Bien, Angelika Langer, Kirk Pepperdine, Dr. Heinz Kabutz, Corneliu Vasile Creanga, René Gielen, Rainer Hermanns, Hans Dockter, Toomas Romer, Bernd Bohmann, Marcel Soulier, Falko Riemenschneider, Carsten Mjartan, Fabian Lange, Andreas Schreiber, Dr. Simon Wiest, Igor Drobiazko, Jason van Zyl, Sven Meier, Pavlo Baron, Frank Pientka, Hamlet D'Arcy, Heiko Rupp, Margrit Höhme, Oliver Gierke, Thomas Ferris Nicolaisen, Martin Fowler, Robert Rees, Antonio Goncalves, Axel Fontaine, Doreen Seider, Andrew Bayer, Daniel Sachse, Sven Efftinge, Gerrit Grunwald, Julian Stücker, Alasdair Collinson, Geertjan Wielenga, Roland Huß, Wolf Schlegel, Karl Heinz Marbaise, Jens Neuhalfen, Jörg Vollmer, Dr. Reik Oberrath, Stephan Kaps, Geertjan Wielenga, Vadym Kazulkin, Rodion Alukhanov, Dominik Schadow, Mateusz Chrzonstowski, Andy Gumbrecht, Sami Ekblad, Teemu Suo-Anttila, Teemu Suo-Anttila, and others.
 <br><br>
 Roadmap (older events will be added soon)
-<br><br>
+<br>
  2006.07.04 Productive Coder, with Dr. Heinz M. Kabutz <br> 
  2006.09.06 IntelliJ IDEA, with Mike Aizatsky<br> 
  2006.12.06 Performance, with Kirk Pepperdine<br> 
@@ -69,7 +69,7 @@ Roadmap (older events will be added soon)
  2015.12.09 The Secrets of Concurrency (Dr. Heinz Kabutz)<br> 
  2016.01.25 Docker + fabric8 (Roland Huß) <br> 
  2016.02.18 Advanced Maven (Karl Heinz Marbaise) und Mit Microservices auf die Überholspur (Wolf Schlegel)<br> 
- 2016.03.21 Git from the inside (Jens Neuhalfen)<br>  
+ 2016.03.21 Git from the inside (Jens Neuhalfen)<br>
  2016.05.09 Über Faulheit, Feigheit, Unfähigkeit und Clean Code (Jörg Vollmer, Dr. Reik Oberrath)<br> 
  2016.09.09 NetBeans Day Cologne (Special Guests: Geertjan Wielenga, and others)<br> 
  2016.09.19 Datenbankänderungen, Tools im Vergleich (Stephan Kaps)<br> 
