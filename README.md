@@ -19,8 +19,8 @@ Roadmap (older events will be added soon)
  2006.07.04 Productive Coder, with Dr. Heinz M. Kabutz <br> 
  2006.09.06 IntelliJ IDEA, with Mike Aizatsky<br> 
  2006.12.06 Performance, with Kirk Pepperdine<br> 
- 2007.02.28 Performance, with Angelika Langer<br> 
- 2007.04.02 JEE 5, with Adam Bien<br>  
+ 2007.02.28 Performance, with Angelika Langer<br>
+ 2007.04.02 JEE 5, with Adam Bien<br>
  2007.06.18 Spring, with Eberhard Wolff<br> 
  2007.07.03 IDE Shootout, with Maxim Shafirov, Mike Aizatsky, Roman Strobl,  Wayne Beaton, Frank Nimphius<br> 
  2007.08.03 Ajax, Caching, SOA with Professor Arno Puder, Max Antoni, Owen Taylor<br> 
