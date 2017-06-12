@@ -77,6 +77,6 @@ Roadmap (older events will be added soon)
  2016.11.28 Sicherheit mit Java (Dominik Schadow)<br> 
  2016.12.12 OData REST services in Java with Apache Olingo (Mateusz Chrzonstowski)<br> 
  2017.02.17 Java Web-Entwicklung mit Vaadin und TomEE, Andy Gumbrecht (Tomitribe), Sami Ekblad (Vaadin), Teemu Suo-Anttila (Vaadin), Teemu Suo-Anttila (Vaadin)<br> 
- 2017.05.08 : Besser schlafen durch Inhaltsverschlüsselung, mit Jens Neuhalfen<br>
+ 2017.05.08 Besser schlafen durch Inhaltsverschlüsselung, mit Jens Neuhalfen<br>
  2017.07.03 Leben, Leiden und Rettung eines IT-Systems, mit Dr. Gernot Starke<br> <br> 
 info[at]jugcologne[dot]eu
