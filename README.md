@@ -4,11 +4,13 @@ JUGC provides conference talks and workshops with leading professionals for free
 <br><br>
 Contact here: info[at]jugcologne[dot]eu.
 <br><br>
-Registration and further details for current events here: https://www.xing.com/net/jugc/.
+Further details here: https://www.xing.com/net/jugc/.
 <br><br>
-Mailing list can be found here: http://de.groups.yahoo.com/group/jugcologne/.
+A mailing list was previously located here: http://de.groups.yahoo.com/group/jugcologne/.
 <br><br>
-Twitter handle is available too. Follow us to keep yourself up to date: https://twitter.com/jugcologne.
+The community is on meetup too: [https://www.meetup.com/java-user-group-cologne](https://www.meetup.com/java-user-group-cologne).
+<br><br>
+Twitter handle is available too: https://twitter.com/jugcologne.
 <br><br>
 We were part of the Adopt-a-JSR program for JSR-344: https://java.net/projects/jugc/pages/JSR-344.
 <br><br>
