@@ -1,6 +1,8 @@
 Hello to the Java User Group Cologne!
 <br> <br> 
-JUGC provides conference talks and workshops with leading professionals for free. The regulars' table is every last Friday of every month -- since the year 2002! Besides events, communication channels are available.
+JUGC provides conference talks and workshops with leading professionals for free. 
+<br><br>
+The **regulars' table** takes place each last Friday of *every* month -- since the year 2002! It takes place at [Tapa­Vinho](https://tapavinho.de), Köln. It starts at 07.00 pm. It is a great opportunity to connect to the community, discuss latest (technical) news, and present some hot stuff!
 <br><br>
 Contact here: info[at]jugcologne[dot]eu.
 <br><br>
