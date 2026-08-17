@@ -3,7 +3,7 @@ Hello to the Java User Group Cologne!
 The **regulars' table** takes place each last Friday of *every* month -- since the year 2002! It takes place at [Tapa­Vinho](https://tapavinho.de), Köln. It starts at 07.00 pm. It is a great
 opportunity to connect to the community, discuss latest (technical) news, and even present some hot stuff!
 > [!NOTE]
-> This JUG is operated as a platform. This means, in addition to the offerings described here on this page, you are very welcome to engage with the community and flexibly host an event yourself, under our umbrella, on a curated self-service base (e.g., via our Meetup group). In any case, it is a highly recommended starting point to join us at our regulars' table to get in touch with us personally.
+> This JUG is operated as a platform. This means, in addition to the offerings described here on this page, you are very welcome to engage with the community and flexibly host an event yourself, under our umbrella, on a curated self-service base. One example could be that you organize event(s) in our Meetup group. Please note, before we assign any roles in Meetup, you are encouraged to contact us personally and to visit us at our regulars' table. In any case, joining us at our monthly meetup is an intuitive and highly recommended starting point for your engagement.
 
 We run on https://www.meetup.com/java-user-group-cologne and we have a handle on https://twitter.com/jugcologne. A previously used mailing was on http://de.groups.yahoo.com/group/jugcologne/ and a Xing group on https://www.xing.com/net/jugc/. We were part of the Adopt-a-JSR program for JSR-344 https://java.net/projects/jugc/pages/JSR-344.
 
