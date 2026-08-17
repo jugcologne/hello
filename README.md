@@ -1,15 +1,17 @@
 Hello to the Java User Group Cologne!
-<br> <br> 
-JUGC provides conference talks and workshops with leading professionals for free. 
-<br><br>
+<br><br> 
 The **regulars' table** takes place each last Friday of *every* month -- since the year 2002! It takes place at [Tapa­Vinho](https://tapavinho.de), Köln. It starts at 07.00 pm. It is a great
 opportunity to connect to the community, discuss latest (technical) news, and even present some hot stuff!
 > [!NOTE]
-> This JUG is operated as a platform. This means, in addition to the offerings described here on this page, you are very welcome to flexibly host an event yourself on a curated self-service base. For example, you are welcome to point to your event on our channels. Please get in contact for any questions. In any case, it is a highly recommended starting point to join us at our regulars' table.
-<br>
-Hall of Fame: Neal Ford, Ed Burns, Dr. Neil Gafter, Dalibor Topic, Stefan Tilkov, Nils Wloka, Stefan Glase, Stefan Scheidt, Marc Guillemot, Mike Wiesner, Ingo Maier, Patrick Chanezon, Andreas Ebbert-Karroum, Matthias Wessendorf, Arno Puder, Andrea Provaglio, Vaclav Pech, Jonas Bonér, Roman Strobl, Carol McDonald, Joey Shen, Simon Ritter, Mike Keith, Owen Taylor, Maxim Shafirov, Mike Aizatsky, Wayne Beaton, Frank Nimphuis, Eberhard Wolff, Adam Bien, Angelika Langer, Kirk Pepperdine, Dr. Heinz Kabutz, Corneliu Vasile Creanga, René Gielen, Rainer Hermanns, Hans Dockter, Toomas Romer, Bernd Bohmann, Marcel Soulier, Falko Riemenschneider, Carsten Mjartan, Fabian Lange, Andreas Schreiber, Dr. Simon Wiest, Igor Drobiazko, Jason van Zyl, Sven Meier, Pavlo Baron, Frank Pientka, Hamlet D'Arcy, Heiko Rupp, Margrit Höhme, Oliver Gierke, Thomas Ferris Nicolaisen, Martin Fowler, Robert Rees, Antonio Goncalves, Axel Fontaine, Doreen Seider, Andrew Bayer, Daniel Sachse, Sven Efftinge, Gerrit Grunwald, Julian Stücker, Alasdair Collinson, Geertjan Wielenga, Roland Huß, Wolf Schlegel, Karl Heinz Marbaise, Jens Neuhalfen, Jörg Vollmer, Dr. Reik Oberrath, Stephan Kaps, Geertjan Wielenga, Vadym Kazulkin, Rodion Alukhanov, Dominik Schadow, Mateusz Chrzonstowski, Andy Gumbrecht, Sami Ekblad, Teemu Suo-Anttila, Teemu Suo-Anttila, and others.
-<br><br>
-Roadmap (based on the classic/old approach; older events will be added soon)
+> This JUG is operated as a platform. This means, in addition to the offerings described here on this page, you are very welcome to engage with the community and flexibly host an event yourself, under our umbrella, on a curated self-service base (e.g., via our Meetup group). In any case, it is a highly recommended starting point to join us at our regulars' table to get in touch with us personally.
+
+We run on https://www.meetup.com/java-user-group-cologne and we have a handle on https://twitter.com/jugcologne. A previously used mailing was on http://de.groups.yahoo.com/group/jugcologne/ and a Xing group on https://www.xing.com/net/jugc/. We were part of the Adopt-a-JSR program for JSR-344 https://java.net/projects/jugc/pages/JSR-344.
+
+info[at]jugcologne[dot]eu
+
+---
+
+Before serving as a platform, JUGC provided regular conference talks and workshops with leading professionals for free. Hall of Fame: Neal Ford, Ed Burns, Dr. Neil Gafter, Dalibor Topic, Stefan Tilkov, Nils Wloka, Stefan Glase, Stefan Scheidt, Marc Guillemot, Mike Wiesner, Ingo Maier, Patrick Chanezon, Andreas Ebbert-Karroum, Matthias Wessendorf, Arno Puder, Andrea Provaglio, Vaclav Pech, Jonas Bonér, Roman Strobl, Carol McDonald, Joey Shen, Simon Ritter, Mike Keith, Owen Taylor, Maxim Shafirov, Mike Aizatsky, Wayne Beaton, Frank Nimphuis, Eberhard Wolff, Adam Bien, Angelika Langer, Kirk Pepperdine, Dr. Heinz Kabutz, Corneliu Vasile Creanga, René Gielen, Rainer Hermanns, Hans Dockter, Toomas Romer, Bernd Bohmann, Marcel Soulier, Falko Riemenschneider, Carsten Mjartan, Fabian Lange, Andreas Schreiber, Dr. Simon Wiest, Igor Drobiazko, Jason van Zyl, Sven Meier, Pavlo Baron, Frank Pientka, Hamlet D'Arcy, Heiko Rupp, Margrit Höhme, Oliver Gierke, Thomas Ferris Nicolaisen, Martin Fowler, Robert Rees, Antonio Goncalves, Axel Fontaine, Doreen Seider, Andrew Bayer, Daniel Sachse, Sven Efftinge, Gerrit Grunwald, Julian Stücker, Alasdair Collinson, Geertjan Wielenga, Roland Huß, Wolf Schlegel, Karl Heinz Marbaise, Jens Neuhalfen, Jörg Vollmer, Dr. Reik Oberrath, Stephan Kaps, Geertjan Wielenga, Vadym Kazulkin, Rodion Alukhanov, Dominik Schadow, Mateusz Chrzonstowski, Andy Gumbrecht, Sami Ekblad, Teemu Suo-Anttila, Teemu Suo-Anttila, and others. Based on the vintage approach, the roadmap was:
 <br>
  2006.07.04 Productive Coder, with Dr. Heinz M. Kabutz <br> 
  2006.09.06 IntelliJ IDEA, with Mike Aizatsky<br> 
@@ -75,10 +77,5 @@ Roadmap (based on the classic/old approach; older events will be added soon)
  2017.05.08 Besser schlafen durch Inhaltsverschlüsselung, mit Jens Neuhalfen<br>
  2017.07.03 Leben, Leiden und Rettung eines IT-Systems, mit Dr. Gernot Starke<br> 
  2017.09.11 Java Special, with Venkat Subramaniam TBD<br> 
- 2017.09.25 Kotlin, Reactive Programming, Git<br><br>  
+ 2017.09.25 Kotlin, Reactive Programming, Git<br>  
 
-Further details can be found on https://www.xing.com/net/jugc/, we run on https://www.meetup.com/java-user-group-cologne, and we have a handle on https://twitter.com/jugcologne. A previously used mailing was on http://de.groups.yahoo.com/group/jugcologne/.
-<br><br>
-We were part of the Adopt-a-JSR program for JSR-344: https://java.net/projects/jugc/pages/JSR-344.
-
-info[at]jugcologne[dot]eu
