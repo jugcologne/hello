@@ -1,5 +1,14 @@
 Hello to the Java User Group Cologne!
-<br><br> 
+
+[Welcome](#hello)<br/>
+[History](#history)<br/>
+[FAQ](#faq)<br/>
+
+<!--suppress ALL -->
+<a name="hello"/>
+
+### Welcome
+ 
 The **regulars' table** takes place each last Friday of *every* month -- since the year 2002! It takes place at [Tapa­Vinho](https://tapavinho.de), Köln. It starts at 07.00 pm. It is a great
 opportunity to connect to the community, discuss latest (technical) news, and even present some hot stuff!
 > [!NOTE]
@@ -7,11 +16,11 @@ opportunity to connect to the community, discuss latest (technical) news, and ev
 
 We run on https://www.meetup.com/java-user-group-cologne and we have a handle on https://twitter.com/jugcologne. A previously used mailing was on http://de.groups.yahoo.com/group/jugcologne/ and a Xing group on https://www.xing.com/net/jugc/. We were part of the Adopt-a-JSR program for JSR-344 https://java.net/projects/jugc/pages/JSR-344.
 
-info[at]jugcologne[dot]eu
+<a name="history"/>
 
----
+### History
 
-Before serving as a platform, JUGC provided regular conference talks and workshops with leading professionals for free. Hall of Fame: Neal Ford, Ed Burns, Dr. Neil Gafter, Dalibor Topic, Stefan Tilkov, Nils Wloka, Stefan Glase, Stefan Scheidt, Marc Guillemot, Mike Wiesner, Ingo Maier, Patrick Chanezon, Andreas Ebbert-Karroum, Matthias Wessendorf, Arno Puder, Andrea Provaglio, Vaclav Pech, Jonas Bonér, Roman Strobl, Carol McDonald, Joey Shen, Simon Ritter, Mike Keith, Owen Taylor, Maxim Shafirov, Mike Aizatsky, Wayne Beaton, Frank Nimphuis, Eberhard Wolff, Adam Bien, Angelika Langer, Kirk Pepperdine, Dr. Heinz Kabutz, Corneliu Vasile Creanga, René Gielen, Rainer Hermanns, Hans Dockter, Toomas Romer, Bernd Bohmann, Marcel Soulier, Falko Riemenschneider, Carsten Mjartan, Fabian Lange, Andreas Schreiber, Dr. Simon Wiest, Igor Drobiazko, Jason van Zyl, Sven Meier, Pavlo Baron, Frank Pientka, Hamlet D'Arcy, Heiko Rupp, Margrit Höhme, Oliver Gierke, Thomas Ferris Nicolaisen, Martin Fowler, Robert Rees, Antonio Goncalves, Axel Fontaine, Doreen Seider, Andrew Bayer, Daniel Sachse, Sven Efftinge, Gerrit Grunwald, Julian Stücker, Alasdair Collinson, Geertjan Wielenga, Roland Huß, Wolf Schlegel, Karl Heinz Marbaise, Jens Neuhalfen, Jörg Vollmer, Dr. Reik Oberrath, Stephan Kaps, Geertjan Wielenga, Vadym Kazulkin, Rodion Alukhanov, Dominik Schadow, Mateusz Chrzonstowski, Andy Gumbrecht, Sami Ekblad, Teemu Suo-Anttila, Teemu Suo-Anttila, and others. Based on the vintage approach, the roadmap was:
+Before serving as a platform, running a classic approach, JUGC provided regular conference talks and workshops with leading professionals for free. Hall of Fame: Neal Ford, Ed Burns, Dr. Neil Gafter, Dalibor Topic, Stefan Tilkov, Nils Wloka, Stefan Glase, Stefan Scheidt, Marc Guillemot, Mike Wiesner, Ingo Maier, Patrick Chanezon, Andreas Ebbert-Karroum, Matthias Wessendorf, Arno Puder, Andrea Provaglio, Vaclav Pech, Jonas Bonér, Roman Strobl, Carol McDonald, Joey Shen, Simon Ritter, Mike Keith, Owen Taylor, Maxim Shafirov, Mike Aizatsky, Wayne Beaton, Frank Nimphuis, Eberhard Wolff, Adam Bien, Angelika Langer, Kirk Pepperdine, Dr. Heinz Kabutz, Corneliu Vasile Creanga, René Gielen, Rainer Hermanns, Hans Dockter, Toomas Romer, Bernd Bohmann, Marcel Soulier, Falko Riemenschneider, Carsten Mjartan, Fabian Lange, Andreas Schreiber, Dr. Simon Wiest, Igor Drobiazko, Jason van Zyl, Sven Meier, Pavlo Baron, Frank Pientka, Hamlet D'Arcy, Heiko Rupp, Margrit Höhme, Oliver Gierke, Thomas Ferris Nicolaisen, Martin Fowler, Robert Rees, Antonio Goncalves, Axel Fontaine, Doreen Seider, Andrew Bayer, Daniel Sachse, Sven Efftinge, Gerrit Grunwald, Julian Stücker, Alasdair Collinson, Geertjan Wielenga, Roland Huß, Wolf Schlegel, Karl Heinz Marbaise, Jens Neuhalfen, Jörg Vollmer, Dr. Reik Oberrath, Stephan Kaps, Geertjan Wielenga, Vadym Kazulkin, Rodion Alukhanov, Dominik Schadow, Mateusz Chrzonstowski, Andy Gumbrecht, Sami Ekblad, Teemu Suo-Anttila, Teemu Suo-Anttila, and others. Based on the vintage approach, the roadmap was:
 <br>
  2006.07.04 Productive Coder, with Dr. Heinz M. Kabutz <br> 
  2006.09.06 IntelliJ IDEA, with Mike Aizatsky<br> 
@@ -78,4 +87,21 @@ Before serving as a platform, JUGC provided regular conference talks and worksho
  2017.07.03 Leben, Leiden und Rettung eines IT-Systems, mit Dr. Gernot Starke<br> 
  2017.09.11 Java Special, with Venkat Subramaniam TBD<br> 
  2017.09.25 Kotlin, Reactive Programming, Git<br>  
+
+<a name="faq"/>
+
+### FAQ
+
+1. How does a JUG relate to a platform?
+Answer: While running as a classic JUG for decades, some years back we moved to an approach that is comparable with a technical platform: Everybody eager to engage with the community can either participate in the offered meetups or can simply organize an event herself. 
+
+2. Why do you run the JUG as a platform?
+Answer: Morphing to a modern setup, we combine both, a classic structure with options to freely extend the existing offering. In the past, people often over-committed while planning to actively contribute to the JUG. As a platform, while scaling-up with open extension points, we offer simple entry paths for people to engage with the community.
+
+3. How can I contribute? 
+Answer: Our regulars' table is what the name suggests. In addition, it does often contain space to present about technical topics similar to an unconference or an open space format. If you are eager to organize an entire event yourself, under our umbrella, you could either just do that and give us the information to point to it. Or we can provide you with a role in our Meetup group and you can autonomously organize the happening. Just get in contact with us to explore details how to start. We are more than happy to welcome you to join us at our regulars' table to exchange with us in person.
+
+---
+
+<div align="center">info[at]jugcologne[dot]eu</div>
 
